@@ -23,10 +23,17 @@ All of our code works but we were unable to implement the menus and display the 
 There are several functionalities that can be added to our application that would create a better user experience, including but not limited to:
 
 a. Allow users to remove recipes
+
 b. Allow users to create new ingredients and add ingredients to a recipe
+
 c. Allow users to add recipes to the menu, and create/edit/remove a menu
+
 d. Allow users to get verified as gourmet chefs
+
 e. Allow users to get their recipes verified
+
 f. Allow users to leave reviews on recipes
+
 g. Allow users to view gourmet chef’s recipes and leave ratings on them
+
 h. Allow users to search for a certain recipe by its name, location, or author
