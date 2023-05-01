@@ -24,7 +24,7 @@ learned how to connect to a SQL database using python. Additionally, we learned 
 All of our code works but we were unable to implement the menus and display the data as we originally planned to. However, a user’s menus can be displayed.
 
 ## Future Work
-- We plan to provide this database to a company that is trying to convert physical recipe books into an online format whether it is web-based or app-based. Our front end application allows our client to navigate through the capabilities of our database.
+We plan to provide this database to a company that is trying to convert physical recipe books into an online format whether it is web-based or app-based. Our front end application allows our client to navigate through the capabilities of our database.
 There are several functionalities that can be added to our application that would create a better user experience, including but not limited to:
 - Allow users to remove recipes
 - Allow users to create new ingredients and add ingredients to a recipe
