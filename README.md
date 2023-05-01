@@ -1,5 +1,6 @@
 # SQL-Recipe-Database
 Database Design Project: Python application where a user is able to view and upload different cooking recipes
+By Allen Lim, Malachy Ayala, and Vivek Divakarla
 
 Instructions to run the application
 - Install some version of Python 3. We used Python 3.7.9 and the Python IDLE to run our code
