@@ -21,6 +21,7 @@ All of our code works but we were unable to implement the menus and display the 
 ## Future Work
 - We plan to provide this database to a company that is trying to convert physical recipe books into an online format whether it is web-based or app-based. Our front end application allows our client to navigate through the capabilities of our database.
 There are several functionalities that can be added to our application that would create a better user experience, including but not limited to:
+
 a. Allow users to remove recipes
 b. Allow users to create new ingredients and add ingredients to a recipe
 c. Allow users to add recipes to the menu, and create/edit/remove a menu
